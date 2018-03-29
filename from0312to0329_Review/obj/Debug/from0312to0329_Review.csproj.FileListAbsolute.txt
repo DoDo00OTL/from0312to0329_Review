@@ -1,0 +1,7 @@
+C:\Users\AMD\source\repos\from0312to0329_Review\from0312to0329_Review\bin\Debug\from0312to0329_Review.exe.config
+C:\Users\AMD\source\repos\from0312to0329_Review\from0312to0329_Review\bin\Debug\from0312to0329_Review.exe
+C:\Users\AMD\source\repos\from0312to0329_Review\from0312to0329_Review\bin\Debug\from0312to0329_Review.pdb
+C:\Users\AMD\source\repos\from0312to0329_Review\from0312to0329_Review\obj\Debug\from0312to0329_Review.csprojResolveAssemblyReference.cache
+C:\Users\AMD\source\repos\from0312to0329_Review\from0312to0329_Review\obj\Debug\from0312to0329_Review.csproj.CoreCompileInputs.cache
+C:\Users\AMD\source\repos\from0312to0329_Review\from0312to0329_Review\obj\Debug\from0312to0329_Review.exe
+C:\Users\AMD\source\repos\from0312to0329_Review\from0312to0329_Review\obj\Debug\from0312to0329_Review.pdb
